@@ -8,4 +8,10 @@ This project implements a **reproducible machine learning pipeline** to predict 
 - **Hyperparameter tuning** with `GridSearchCV`.
 - **Reproducible results** with versioned data and model artifacts.
 
-## Project Structure
+## Data Pipeline Overview
+
+The following diagram shows the DVC pipeline stages in this project:
+
+![DVC Data Pipeline](assets/pipeline.png)
+
+
